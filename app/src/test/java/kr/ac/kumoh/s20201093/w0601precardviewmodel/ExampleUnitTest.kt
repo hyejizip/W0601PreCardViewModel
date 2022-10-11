@@ -1,4 +1,4 @@
-package kr.ac.kumoh.prof.w0501precarddealer
+package kr.ac.kumoh.s20201093.w0601precardviewmodel
 
 import org.junit.Test
 
